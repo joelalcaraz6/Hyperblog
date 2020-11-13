@@ -1,0 +1,1 @@
+python es un lenguaje multipropósito, se puede utlizar para backend webs y data science.
